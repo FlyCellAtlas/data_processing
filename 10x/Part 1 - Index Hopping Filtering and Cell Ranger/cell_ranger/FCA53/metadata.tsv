@@ -1,0 +1,2 @@
+short_uuid	uuid	sample_name	fastqs_parent_dir_path	fastqs_dir_name	fastqs_sample_prefix	expect_cells
+0ece9e7a	0ece9e7a-015d-11eb-8e39-20001110fe80	FCA53_Male_oenocyteGFP_adult_5dWT_Jasper_sample1	FCA53_Male_oenocyteGFP_adult_5dWT_Jasper_sample1/	.	FCA53_Male_oenocyteGFP_adult_5dWT_Jasper_sample1	10000
