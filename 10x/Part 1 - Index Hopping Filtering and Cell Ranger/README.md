@@ -9,3 +9,9 @@ The `index_hopping_filter/metadata` folder contains the resulting files of runni
 ```
 ./index-hopping-filter mkcsv <INPUT>
 ```
+
+## 1.2. Cell Ranger
+
+This step is about running the Cell Ranger software using the VSN-Pipelines. The `cell_ranger/batch{1,2,3,4}` folders contains:
+- Nextflow config.
+- A `metadata.tsv` file used with the Nextflow pipeline containing parameter values to run Cell Ranger (e.g.: path to FASTQ files, number expected cells).

@@ -1,0 +1,10 @@
+short_uuid	uuid	sample_name	fastqs_parent_dir_path	fastqs_dir_name	fastqs_sample_prefix	expect_cells
+d541ae4e	d541ae4e-9f6a-11ea-aa6d-a0000220fe80	FCA1_MaleFemale_Head	index_hopping_filter_batch1_run1/outs/fastq_path	n/a	FCA1_Head	5000
+d54b72e4	d54b72e4-9f6a-11ea-a3bf-a0000220fe80	FCA2_MaleFemale_Body	index_hopping_filter_batch1_run1/outs/fastq_path	n/a	FCA2_Body	5000
+d5543d16	d5543d16-9f6a-11ea-a782-a0000220fe80	FCA3_MaleFemale_Antenna	index_hopping_filter_batch1_run2/outs/fastq_path	n/a	FCA3_Ant	5000
+d55c64e6	d55c64e6-9f6a-11ea-ae29-a0000220fe80	FCA4_Male_Adult_Head1	index_hopping_filter_batch1_run3/outs/fastq_path	n/a	FCA4_Male_Adult_Head1	10000
+d5653fbc	d5653fbc-9f6a-11ea-b7fb-a0000220fe80	FCA5_Male_Adult_Head2	index_hopping_filter_batch1_run3/outs/fastq_path	n/a	FCA5_Male_Adult_Head2	10000
+d56d6d0e	d56d6d0e-9f6a-11ea-af1b-a0000220fe80	FCA6_Male_Adult_Head3	index_hopping_filter_batch1_run3/outs/fastq_path	n/a	FCA6_Male_Adult_Head3	10000
+d57550d2	d57550d2-9f6a-11ea-a6b4-a0000220fe80	FCA7_Female_Adult_Head1	index_hopping_filter_batch1_run3/outs/fastq_path	n/a	FCA7_Female_Adult_Head1	10000
+d57d41fc	d57d41fc-9f6a-11ea-bd31-a0000220fe80	FCA8_Female_Adult_Head2	index_hopping_filter_batch1_run3/outs/fastq_path	n/a	FCA8_Female_Adult_Head2	10000
+d584e4e8	d584e4e8-9f6a-11ea-9324-a0000220fe80	FCA9_Female_Adult_Head3	index_hopping_filter_batch1_run3/outs/fastq_path	n/a	FCA9_Female_Adult_Head3	10000
