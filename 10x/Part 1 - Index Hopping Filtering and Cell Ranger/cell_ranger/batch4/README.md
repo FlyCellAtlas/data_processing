@@ -16,3 +16,6 @@ nextflow \
       -entry cellranger_metadata
 ```
 
+# Notes
+
+FCA53 (`0ece9e7a`) was re-sequenced separetely from this batch. For practical reason, we have included the latest successfull sequecing run of this sample here in this table.
