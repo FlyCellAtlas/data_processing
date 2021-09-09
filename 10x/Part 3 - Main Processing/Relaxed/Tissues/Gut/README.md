@@ -1,0 +1,14 @@
+# Generate config
+
+```
+nextflow config $VSN -profile \
+  h5ad,utils_sample_annotate,pcacv,directs,harmony,dm6,scenic,scenic_use_cistarget_motifs,scenic_use_cistarget_tracks,singularity \
+  > nextflow.config
+```
+
+# Run 
+
+```
+nextflow -C nextflow.config run $VSN -entry harmony_scenic
+```
+
