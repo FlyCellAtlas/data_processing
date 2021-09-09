@@ -7,7 +7,6 @@ nextflow -C nextflow.config run vib-singlecell-nf/vsn-pipelines -entry harmony -
 # Output
 
 ```
-Completed at: 10-Oct-2020 03:37:05
 Duration    : 1d 7h 12m 45s
 CPU hours   : 236.3
 Succeeded   : 791

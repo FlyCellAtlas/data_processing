@@ -17,7 +17,7 @@ nextflow -C nextflow.config run vib-singlecell-nf/vsn-pipelines -entry harmony_s
 # Output
 
 ```
-Duration    : 1h 9m 6s
-CPU hours   : 3.0
-Succeeded   : 275
+Duration    : 3h 48m 58s
+CPU hours   : 7.8
+Succeeded   : 289
 ```
