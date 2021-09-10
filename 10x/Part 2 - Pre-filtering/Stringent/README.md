@@ -1,7 +1,7 @@
 # Config
 
 ```
-nextflow config vib-singlecell-nf/vsn-pipelines -profile tenx,utils_sample_annotate,single_sample_decontx_correct_scrublet,log,singularity > nextflow.config
+nextflow config vib-singlecell-nf/vsn-pipelines -profile tenx,utils_sample_annotate,single_sample_decontx_correct_scrublet,log,singularity -r 0.21.0 > nextflow.config
 ```
 
 # Run 
